@@ -1,5 +1,3 @@
-# Awesome-B2b-E-Commerce-Platform
-
 # Awesome-B2b-E-Commerce-Platform 🏢 🛒
 
 <p align="center">
